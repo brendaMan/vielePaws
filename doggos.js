@@ -18,3 +18,5 @@ function addNewDoggo() {
 }
 
 document.querySelector(".add-doggo").addEventListener("click", addNewDoggo);
+
+//algunos cambios que hacer 
